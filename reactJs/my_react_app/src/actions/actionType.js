@@ -1,0 +1,4 @@
+
+const ADD_MESSAGE_ACTION = 'ADD_MESSAGE_ACTION';
+
+export default ADD_MESSAGE_ACTION;
